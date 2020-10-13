@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: "/VueTaskBoard/",
+  publicPath: "/TaskBoardVue/",
 };
